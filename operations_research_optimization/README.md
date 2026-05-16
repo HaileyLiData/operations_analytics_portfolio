@@ -1,17 +1,20 @@
-## Analytical Work
+# Operations Research and Optimization
 
-This repository contains optimization modeling exercises and quantitative decision-analysis projects focused on operational problem-solving and analytical modeling.
+This repository contains analytical coursework and optimization modeling exercises focused on quantitative decision-making, operational optimization, and constrained system analysis.
 
-Key areas include:
+## Key Areas
 
-* linear programming and constrained optimization
-* transportation and assignment modeling
-* sensitivity and dual-value analysis
-* operational trade-off evaluation
-* quantitative decision-making workflows
+- linear programming and constrained optimization
+- simplex method and duality analysis
+- transportation and assignment modeling
+- sensitivity and shadow-price interpretation
+- operational trade-off evaluation
+- quantitative decision-modeling workflows
 
-The work emphasizes both mathematical rigor and practical interpretation of optimization results within managerial and operational contexts.
+## Analytical Focus
+
+The work emphasizes optimization thinking, mathematical reasoning, and practical interpretation of operational decision systems within business and management contexts.
 
 ## Academic Context
 
-Projects were completed as part of **MSE603 – Principles of Operations Research** in the Master of Management Sciences (MMSc) program at the University of Waterloo.
+Materials were developed through graduate-level coursework in operations research and optimization modeling, including MSE603 – Principles of Operations Research in the Master of Management Sciences (MMSc) program at the University of Waterloo.
